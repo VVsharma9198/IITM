@@ -1,0 +1,26 @@
+body{
+    background-color: #c3c9c5;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 200px;
+}
+.outer_box{
+    align-content: center;
+    width: auto;
+    height: auto;
+    margin-left: 380px;
+    margin-right: 380px;
+    box-shadow: 3px 3px 3px 3px;
+    border-radius: 15px;
+}
+.outer_box{
+    background: white;
+    box-shadow:-5px 0px 80px -5px rgba(0,0,0,0.75);padding:30px 50px;
+}
+button{
+    border-style: inset;
+    border-radius: 6px;
+    margin: 22px;
+    padding: 8px 20px 8px 20px;
+    font-size: 20px;
+}
